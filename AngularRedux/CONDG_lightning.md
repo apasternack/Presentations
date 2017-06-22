@@ -20,3 +20,10 @@ https://gist.github.com/btroncone/a6e4347326749f938510
 https://www.youtube.com/watch?v=s4xr2avwv3s
 
 https://www.youtube.com/watch?v=-EyWq5XP6T8
+
+## Two leading open source libraries implementing Angular + Redux
+ng2-redux
+https://www.npmjs.com/package/ng2-redux
+
+ngrx
+https://github.com/ngrx
