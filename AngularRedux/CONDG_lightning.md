@@ -15,3 +15,8 @@ http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
 
 Great introduction to Redux with Angular, using a particular library: ngrx/store
 https://gist.github.com/btroncone/a6e4347326749f938510
+
+## YouTube Videos
+https://www.youtube.com/watch?v=s4xr2avwv3s
+
+https://www.youtube.com/watch?v=-EyWq5XP6T8
