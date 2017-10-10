@@ -1,0 +1,22 @@
+// Mini video series that explains the JS Rxjs library which uses Observables
+// Angular is built with Observables as first class citzens, although the amount which you use them is up to you
+Understanding RxJS
+https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi
+
+Rxjs Docs Page
+http://reactivex.io/rxjs/
+
+// RxJS 5 Operators By Example:
+https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35
+
+
+// Make your Angular App into a cross platform mobile app with NativeScript with two easy steps
+    // 1) Inject NativeScript's modified Angular router that conforms to the Angular router Interface, thus no change in routing logic
+    // 2) Write new views in NativeScript's tags; all else, components, services, directives, etc... remain the same!
+    // 3) Watch out ReactNative ;-p
+    
+//Angular Material - a UI library for building modern apps (like bootstrap for Angular)
+    https://material.angular.io/
+    
+
+    
