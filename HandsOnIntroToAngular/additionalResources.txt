@@ -8,7 +8,10 @@ https://blog.angular-university.io/angular-http/
 Understanding RxJS
 https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi
 
-Rxjs Docs Page
+// Free Angular E-Book with awesome working online Plunker examples
+https://codecraft.tv/courses/angular/quickstart/overview/
+
+//Rxjs Docs Page
 http://reactivex.io/rxjs/
 
 // RxJS 5 Operators By Example:
@@ -22,6 +25,3 @@ https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35
     
 //Angular Material - a UI library for building modern apps (like bootstrap for Angular)
     https://material.angular.io/
-    
-
-    
