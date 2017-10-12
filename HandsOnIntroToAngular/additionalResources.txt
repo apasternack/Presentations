@@ -1,3 +1,8 @@
+// Official Angular Docs
+
+// Great post on using Angular's newly added HttpClient that replaces the older Http:
+https://blog.angular-university.io/angular-http/
+
 // Mini video series that explains the JS Rxjs library which uses Observables
 // Angular is built with Observables as first class citzens, although the amount which you use them is up to you
 Understanding RxJS
