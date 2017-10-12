@@ -17,3 +17,6 @@ ng g component components/user
 // generate the boilerplate code for a service named data in the services folder
     //note: this does NOT automatically imports the newly made service into app.module nor add it to the provider[]
 ng g service services/data
+
+// url for call to get albums
+https://jsonplaceholder.typicode.com/albums
