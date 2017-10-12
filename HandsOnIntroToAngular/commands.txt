@@ -10,4 +10,7 @@ cd <PROJECT-NAME>
 // start the dev server to serve up your angular app!
 ng serve
 
-//https://www.youtube.com/watch?v=ei7FsoXKPl0&t=9s
+// generate the boilerplate code for a component named user in the components folder
+    //note: this automatically imports the newly made component into app.module and adds it to the declarations[]
+ng g component components/user
+
