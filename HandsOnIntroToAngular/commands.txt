@@ -20,3 +20,8 @@ ng g service services/data
 
 // url for call to get albums
 https://jsonplaceholder.typicode.com/albums
+
+// generate the boilerplate code for a component named faq in the components folder
+    //note: this automatically imports the newly made component into app.module and adds it to the declarations[]
+ng g component components/faq
+
