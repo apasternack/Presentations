@@ -1,15 +1,54 @@
 Resources for Angular Developers
 
+// Mini video series that explains the JS Rxjs library which uses Observables
+// Angular is built with Observables as first class citzens, although the amount which you use them is up to you
+Understanding RxJS
+https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi
+
+// Official Ngrx repository
+https://github.com/ngrx
+
+// Official Ngrx - example app (used in demo)
+https://github.com/ngrx/example-app
+
+// Unoffical Rangle.io docs on Ngrx; explains step by step how to install, wire up, and get the scafolding set up!!!
+https://angular-2-training-book.rangle.io/handout/state-management/ngrx/
+
+// GREAT articles about why and how Ngrx
+http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
+  
+  //By an author who was on the Angular core team at google, now runs Angular training/consultancy
+  https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5 
+  https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b
+
+// Free Angular E-Book with awesome working online Plunker examples
+https://codecraft.tv/courses/angular/quickstart/overview/
+
+//Rxjs Docs Page
+http://reactivex.io/rxjs/
+
+// RxJS 5 Operators By Example:
+https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35
+
+// Make your Angular App into a cross platform mobile app with NativeScript with two easy steps
+    // 1) Inject NativeScript's modified Angular router that conforms to the Angular router Interface, thus no change in routing logic
+    // 2) Write new views in NativeScript's tags; all else, components, services, directives, etc... remain the same!
+    // 3) Watch out ReactNative ;-p
+    
+//Angular Material - a UI library for building modern apps (like bootstrap for Angular)
+    https://material.angular.io/
+
+
 Introduction to Observables (from Rxjs library) for Angular Developers
 https://developer.telerik.com/topics/web-development/introduction-observables-angular-developers/
 
-Rx Marbles: Interactive Design for visualizing how operators (like functions with Observable streams for input/output) work on one or more streams to produce an output stream(s)
-http://rxmarbles.com/
+Rxjs - Observables:
 
-
-
-
-
+  Rx Marbles: Interactive Design for visualizing how operators (like functions with Observable streams for input/output) work on one or more streams to produce an output stream(s)
+  http://rxmarbles.com/
+  
+  Learn Rxjs Operators by example:
+  https://www.learnrxjs.io/operators
 
 Tutorials:
 
@@ -22,8 +61,7 @@ https://www.udemy.com/rxjs-reactive-angular-course/learn/v4/overview
 
   Use Angular, Angular Material, Angularfire (+ Firebase with Firestore) and NgRx to build a real Angular App
   https://www.udemy.com/angular-full-app-with-angular-material-angularfire-ngrx/learn/v4/overview
-  
-  
+ 
   
 Podcasts from Adventures In Angular on Ngrx:
   - https://devchat.tv/adv-in-angular/ngrx-with-mike-ryan
