@@ -1,5 +1,11 @@
 Resources for Angular Developers
 
+// Nx: An open source toolkit for enterprise Angular applications.
+  It extends the native angular cli to help scafold out Ngrx boilerplate & setup
+  It also can create "Workspaces" which allow you to have shared npm dependiencies across multiple angular projects to make a mono repo that makes sense for some cases
+  https://nrwl.io/nx
+  https://nrwl.io/nx/why-a-workspace
+
 // Mini video series that explains the JS Rxjs library which uses Observables
 // Angular is built with Observables as first class citzens, although the amount which you use them is up to you
 Understanding RxJS
@@ -67,3 +73,4 @@ Podcasts from Adventures In Angular on Ngrx:
   - https://devchat.tv/adv-in-angular/ngrx-with-mike-ryan
   - https://devchat.tv/adv-in-angular/aia-169-ngrx-entities-jesse-sanders
   - https://devchat.tv/adv-in-angular/aia-174-reducing-boilerplate-redux-ngrx-patterns-angular-austin-mcdaniel
+
