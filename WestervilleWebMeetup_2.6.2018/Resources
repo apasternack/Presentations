@@ -1,0 +1,31 @@
+Resources for Angular Developers
+
+Introduction to Observables (from Rxjs library) for Angular Developers
+https://developer.telerik.com/topics/web-development/introduction-observables-angular-developers/
+
+Rx Marbles: Interactive Design for visualizing how operators (like functions with Observable streams for input/output) work on one or more streams to produce an output stream(s)
+http://rxmarbles.com/
+
+
+
+
+
+
+Tutorials:
+
+  John Papa, youtube and Pluralsight
+
+  https://egghead.io/ Search Rxjs, and Ngrx
+
+  Angular 5 RxJs Reactive Programming
+https://www.udemy.com/rxjs-reactive-angular-course/learn/v4/overview
+
+  Use Angular, Angular Material, Angularfire (+ Firebase with Firestore) and NgRx to build a real Angular App
+  https://www.udemy.com/angular-full-app-with-angular-material-angularfire-ngrx/learn/v4/overview
+  
+  
+  
+Podcasts from Adventures In Angular on Ngrx:
+  - https://devchat.tv/adv-in-angular/ngrx-with-mike-ryan
+  - https://devchat.tv/adv-in-angular/aia-169-ngrx-entities-jesse-sanders
+  - https://devchat.tv/adv-in-angular/aia-174-reducing-boilerplate-redux-ngrx-patterns-angular-austin-mcdaniel
