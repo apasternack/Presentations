@@ -17,6 +17,9 @@ https://github.com/ngrx/example-app
 // Unoffical Rangle.io docs on Ngrx; explains step by step how to install, wire up, and get the scafolding set up!!!
 https://angular-2-training-book.rangle.io/handout/state-management/ngrx/
 
+// Angular Change Detection - how it works and performance gain why and how of onPush change detection strategy
+https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+
 // GREAT articles about why and how Ngrx
 http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
   
