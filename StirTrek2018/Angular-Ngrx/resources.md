@@ -1,0 +1,49 @@
+// Official Angular Docs
+https://angular.io/
+
+// Great post on using Angular's newly added HttpClient that replaces the older Http:
+https://blog.angular-university.io/angular-http/
+
+// Mini video series that explains the JS Rxjs library which uses Observables
+// Angular is built with Observables as first class citzens, although the amount which you use them is up to you
+Understanding RxJS
+https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi
+
+// Official Ngrx repository
+https://github.com/ngrx
+
+// Official Ngrx - example app (used in demo)
+https://github.com/ngrx/example-app
+
+// Unoffical Rangle.io docs on Ngrx; explains step by step how to install, wire up, and get the scafolding set up!!!
+https://angular-2-training-book.rangle.io/handout/state-management/ngrx/
+
+// Angular Change Detection - how it works and performance gain why and how of onPush change detection strategy
+https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+
+// GREAT articles about why and how Ngrx
+http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
+  
+  //By an author who was on the Angular core team at google, now runs Angular training/consultancy
+  https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5 
+  https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b
+
+// Free Angular E-Book with awesome working online Plunker examples
+https://codecraft.tv/courses/angular/quickstart/overview/
+
+// Angular University
+//  Angular Architecture guides: https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/
+
+//Rxjs Docs Page
+http://reactivex.io/rxjs/
+
+// RxJS 5 Operators By Example:
+https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35
+
+// Make your Angular App into a cross platform mobile app with NativeScript with two easy steps
+    // 1) Inject NativeScript's modified Angular router that conforms to the Angular router Interface, thus no change in routing logic
+    // 2) Write new views in NativeScript's tags; all else, components, services, directives, etc... remain the same!
+    // 3) Watch out ReactNative ;-p
+    
+//Angular Material - a UI library for building modern apps (like bootstrap for Angular)
+    https://material.angular.io/
